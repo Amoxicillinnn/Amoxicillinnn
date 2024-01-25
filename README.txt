@@ -1,6 +1,6 @@
 # Project Title
 
-[![Build Status](https://github.com/Amoxicillinnn?tab=repositories)](https://github.com/Amoxicillinnn/Amoxicillinnn)
+[![Build Status](https://github.com/Amoxicillinnn?tab=repositories)] (https://github.com/Amoxicillinnn/Amoxicillinnn)
 
 ## Table of Contents
 - [Project Description](#project-description)
