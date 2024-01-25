@@ -1,6 +1,6 @@
 # Project Title
 
-[![Build Status](your-badge-url)](link-to-your-build)
+[![Build Status](https://github.com/Amoxicillinnn?tab=repositories)](https://github.com/Amoxicillinnn/Amoxicillinnn)
 
 ## Table of Contents
 - [Project Description](#project-description)
@@ -23,8 +23,8 @@ This project is designed to [provide a brief description of the project and its 
 
 To install and run this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
-2. Navigate to the project directory: `cd your-repository`
+1. Clone the repository: `git clone https://github.com/Amoxicillinnn/Amoxicillinnn.git`
+2. Navigate to the project directory: `cd Amoxicillinnn`
 3. Install dependencies: `npm install` (or any relevant command for your project)
 4. Start the application: `npm start` (or any relevant command)
 
